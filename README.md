@@ -7,4 +7,5 @@ A simple, and beginner-friendly webhook spammer and deleter.
 3. Run main.py using cmd using the ```python main.py``` inside of the same directory
 
 ## Examples:
-![](https://ibb.co/y4qt1KK)
+![](https://i.ibb.co/1zT15BB/2023-01-20-16-53-18.gif)
+![](https://i.ibb.co/YfZ22RT/2023-01-20-16-57-57.gif)
