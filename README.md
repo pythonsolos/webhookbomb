@@ -1,5 +1,5 @@
-# Webhook Bomb
-A simple, and beginner-friendly webhook spammer and deleter.
+<p align="center"><b>Webhook Bomb</b></p>
+<p align="center">A simple, and beginner-friendly webhook spammer and deleter.</p>
 
 ## How to run:
 1. Download the main .zip
